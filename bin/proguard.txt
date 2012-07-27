@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:20
+-keep class jp.co.unified.lbs.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class jp.co.unified.lbs.LocationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class jp.co.unified.lbs.MainActivity { <init>(...); }
+
